@@ -31,7 +31,7 @@ This is a simple **Snake and Ladder** game implemented using HTML, CSS, and Java
 1. Clone this repository or download the project files.
    
    ```bash
-   git clone https://github.com/your-username/snake-ladder-game.git
+   git clone https://github.com/divyesh123-jain/Snake-and-Ladder-LLD
    ```
 
 2. Open `index.html` in a web browser.
